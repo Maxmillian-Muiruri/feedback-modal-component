@@ -1,5 +1,5 @@
 ## Live Demo
-➡[View on Vercel](https://feedback-modal-component-git-main-maxmillianmuiruris-projects.verce)
+➡[View live site]](https://feedback-modal-component-git-main-maxmillianmuiruris-projects.verce)
 
 # Feedback Modal Component
 
