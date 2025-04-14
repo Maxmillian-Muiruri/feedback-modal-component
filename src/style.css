@@ -116,6 +116,7 @@ body {
   background: #1b1933;
   border-color: #9093a8;
   border: 1px solid #9093a8;
+  font-size: 22px;
 }
 
 .numbers span.selected {
